@@ -1,0 +1,18 @@
+{
+  "stat.extendedstatistics.arrows_loose": "Arrows Loosed",
+  "stat.extendedstatistics.critical_hits": "Critical Hits",
+
+  "stat.extendedstatistics.anvil_deaths": "Deaths by Anvil",
+  "stat.extendedstatistics.cacti_deaths": "Deaths by Cacti",
+  "stat.extendedstatistics.drown_deaths": "Deaths by Drowning",
+  "stat.extendedstatistics.falling_deaths": "Deaths by Falling",
+  "stat.extendedstatistics.fire_deaths": "Deaths by Fire",
+  "stat.extendedstatistics.fly_into_wall_deaths": "Deaths by Flying into a Wall",
+  "stat.extendedstatistics.lightning_deaths": "Deaths by Lightning",
+  "stat.extendedstatistics.magic_deaths": "Deaths by Magic",
+  "stat.extendedstatistics.void_deaths": "Deaths by the Void",
+  "stat.extendedstatistics.starve_deaths": "Deaths by Starvation",
+  "stat.extendedstatistics.suffocation_deaths": "Deaths by Suffocation",
+  "stat.extendedstatistics.sweet_berry_bush_deaths": "Deaths by Sweet Berry Bushes",
+  "stat.extendedstatistics.wither_deaths": "Deaths by the Wither Effect"
+}
